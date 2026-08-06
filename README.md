@@ -1,8 +1,8 @@
-Olá, eu sou Angela Feier! 👋
+Sou Angela Feier! 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança & Redes de Computadores
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança & Redes de Computadores
 
-🚀 Sobre Mim
+Sobre Mim
  Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 Foco de carreira e aprofundamento em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
 Experiência prática em **suporte e infraestrutura crítica de TI**, atuando em projetos de alta disponibilidade e atendimento ao usuário.
