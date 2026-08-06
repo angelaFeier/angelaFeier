@@ -1,16 +1,32 @@
-## Hi there 👋
+Olá, eu sou Angela Feier! 👋
 
-<!--
-**angelaFeier/angelaFeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança & Redes de Computadores
 
-Here are some ideas to get you started:
+🚀 Sobre Mim
+ Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+Foco de carreira e aprofundamento em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
+Experiência prática em **suporte e infraestrutura crítica de TI**, atuando em projetos de alta disponibilidade e atendimento ao usuário.
+Interesses em diagnósticos de rede, segurança da informação, análise de vulnerabilidades e governança de dados (**LGPD**).
+Localizada em **Curitiba / Pinhais - PR**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Competências Técnicas & Áreas de Foco
+
+**Redes & Infraestrutura de TI**
+- Protocolos de Rede (TCP/IP, DNS, DHCP)
+- Suporte Técnico, Diagnóstico e Resolução de Incidentes
+- Configuração de Equipamentos e Postos de Trabalho
+- Monitoramento de Serviços e Conectividade
+
+**Segurança & Governança**
+- Princípios de Segurança da Informação (Confidencialidade, Integridade e Disponibilidade)
+- Adequação e Noções de LGPD (Lei Geral de Proteção de Dados)
+- Boas Práticas de Defesa e Segurança em Ambientes de TI
+
+
+Em Aprendizado Continuo
+- Fundamentos de Versionamento (Git & GitHub)
+- Arquitetura de Sistemas e Redes Seguras
+
+
+Vamos nos conectar?
+www.linkedin.com/in/angela-feier-5ab227219
