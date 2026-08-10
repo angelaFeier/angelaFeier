@@ -1,19 +1,18 @@
-# Olá, eu sou Ângela Feier! 👋
+# Olá, eu sou Angela Feier! 
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança & Redes de Computadores
+###  Estudante de Análise e Desenvolvimento de Sistemas | Foco em Cibersegurança & Redes de Computadores
+
+---
+###  Sobre Mim
+-  Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+-  Foco de carreira em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
+-  Experiência em **suporte e infraestrutura crítica de TI**, atuando em projetos de alta disponibilidade e atendimento ao usuário.
+-  Interesses em diagnósticos de rede, segurança da informação, análise de vulnerabilidades e governança (**LGPD**).
+-  Localizada em **Curitiba / Pinhais - PR**.
 
 ---
 
-### 🚀 Sobre Mim
-- 📌 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 🛡️ Foco de carreira em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
-- 🛠️ Experiência em **suporte e infraestrutura crítica de TI**, atuando em projetos de alta disponibilidade e atendimento ao usuário.
-- 💡 Interesses em diagnósticos de rede, segurança da informação, análise de vulnerabilidades e governança (**LGPD**).
-- 📍 Localizada em **Curitiba / Pinhais - PR**.
-
----
-
-### 🛠️ Competências Técnicas & Áreas de Foco
+###  Competências Técnicas & Áreas de Foco
 
 #### **Redes & Infraestrutura de TI**
 - Protocolos de Rede (TCP/IP, DNS, DHCP)
